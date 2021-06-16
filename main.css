@@ -3,6 +3,7 @@ body {
 }
 .wrapper {
     border: 10px solid red;
-    .wrapper{margin: 5px;}
-h1{text-align: center;}
+    margin: 5px;
+
 }
+h1{text-align: center;}
